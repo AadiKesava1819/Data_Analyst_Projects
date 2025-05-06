@@ -16,7 +16,7 @@ The goal was to create an interactive Excel dashboard that offers a clear and vi
 
 ---
 
-## 🛠 How I Developed This Project
+##  How I Developed This Project
 
 - Collected raw transactional data including customer demographics, order amounts, locations, and sales channels.
 - Cleaned and structured the data using Excel functions and pivot tables.
