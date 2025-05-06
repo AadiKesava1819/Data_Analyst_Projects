@@ -10,7 +10,7 @@ This Power BI dashboard provides an analytical view of Zomato restaurant data ac
 -  Cuisine types and cost for two vary significantly by category.
 
 ##  Tools & Technologies
-- Power BI Desktop (`.pbix`)
+- Power BI Desktop 
 - DAX for data calculations
 - Power Query for data transformation
 - Public Zomato dataset (assumed or anonymized)
